@@ -1,0 +1,17 @@
+.navbar {
+    padding: 10px;
+}
+
+.logo {
+    width: 80%;
+}
+
+.nav-item {
+    margin: 0px 10px;
+}
+
+.contact-btn {
+    background-color: orange;
+    border-radius: 25px;
+    padding: 0px 25px;
+}
